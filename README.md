@@ -32,8 +32,11 @@ Este projeto foi desenvolvido como parte do programa de formação em Engenharia
 📈 Performance Comercial
 
 · 🏆 Melhor produto: Canon Printer - Maior lucratividade
+
 · 🌍 Melhor região: East - 13.5% de margem
+
 · 💰 Categoria líder: Tecnologia - 49% de margem média
+
 · 📈 Crescimento anual: 15% - Tendência positiva consistente
 
 📊 Insights Estratégicos
