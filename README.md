@@ -6,6 +6,7 @@ Equipe: Ana Paula, Núbia Anne Mendonça dos Santos, Francisco Almeida Lucas
 
 Programa: Desenvolver - Grupo Boticário & Koru
 
+
 Período: 2025
 
 Este projeto foi desenvolvido como parte do programa de formação em Engenharia de Dados, onde aplicamos na prática os conceitos de modelagem dimensional, ingestão de dados no BigQuery e análise estratégica utilizando SQL.
