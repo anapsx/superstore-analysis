@@ -51,16 +51,6 @@ Este projeto foi desenvolvido como parte do programa de formação em Engenharia
 · Looker Studio - Visualização e dashboarding
 · Google Colab - Ambiente de desenvolvimento
 
-📁 Estrutura do Projeto
-
-```
-superstore-analysis/
-├── 📊 data/                    
-├── 📁 scripts/                 
-├── 📁 notebooks/               
-├── 📁 docs/                    
-└── 📄 README.md               
-```
 
 💡 Aprendizados e Desafios
 
