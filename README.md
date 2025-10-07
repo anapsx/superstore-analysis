@@ -2,8 +2,6 @@
 
 👥Equipe: Ana Paula, Núbia Anne Mendonça dos Santos, Francisco Almeida Lucas
 
-Programa: Desenvolver - Grupo Boticário & Koru
-
 
 Período: 2025
 
