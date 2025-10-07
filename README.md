@@ -21,8 +21,8 @@ Este projeto foi desenvolvido como parte do programa de formação em Engenharia
 
 🔗 Links do Projeto
 
-· 📊 Dashboard Interativo: Acesse aqui
-· 📓 Análise no Colab: Ver notebooks
+· 📊 Dashboard Interativo: https://lookerstudio.google.com/s/k6l25IZi8wg
+· 📓 Análise no Colab: https://colab.research.google.com/drive/15xdO-jte9LtkUUr6y0XGR02phi3hVGvS?usp=sharing
 · 🐙 Repositório GitHub: 
 
 🏆 Principais Resultados
