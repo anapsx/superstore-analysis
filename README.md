@@ -12,16 +12,20 @@ Este projeto foi desenvolvido como parte do programa de formação em Engenharia
 🎯 Objetivos Alcançados
 
 ✅ Estrutura de dados no BigQuery 
+
 ✅ Ingestão de dados realizada com scripts SQL otimizados
+
 ✅ Perguntas de negócio respondidas através de consultas analíticas
+
 ✅ VIEW reutilizável implementada para padronização das análises
+
 ✅ Dashboard interativo desenvolvido no Looker Studio
 
 🔗 Links do Projeto
 
 · 📊 Dashboard Interativo: Acesse aqui
 · 📓 Análise no Colab: Ver notebooks
-· 🐙 Repositório GitHub: [Link do repositório]
+· 🐙 Repositório GitHub: 
 
 🏆 Principais Resultados
 
